@@ -56,7 +56,7 @@ cd OOPeats
 ### Step 2: Install MySQL and Set Password
 
 1. Install MySQL Server
-2. During installation, set the root password to: `Shreya2006`
+2. During installation, set the root password to your preferred password.
    - **Note**: If you use a different password, update it in `src/Database/DatabaseManager.java`
 
 ### Step 3: Setup Database
@@ -82,7 +82,7 @@ cd OOPeats
 **Option B: Using MySQL Workbench**
 
 1. Open MySQL Workbench
-2. Connect to localhost (root, password: Shreya2006)
+2. Connect to localhost (root, password: the password that you entered)
 3. File → Open SQL Script → Select `database/meal_reservation_db.sql`
 4. Execute the script (⚡ icon or Ctrl+Shift+Enter)
 
