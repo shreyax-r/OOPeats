@@ -68,7 +68,6 @@ cd OOPeats
    ```bash
    mysql -u root -p
    ```
-   Enter password: `Shreya2006`
 
 3. Run the database setup script:
    ```sql
